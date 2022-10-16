@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-Attiyah
 - 👀 I’m interested in **Front-End Development**
 - 🌱 I’m currently learning **React.Js**
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to **Internship** as a Junior developer
 - 📫 How to reach me [Instagram](https://www.instagram.com/mahmoudattiyah) OR [Upwork](https://www.upwork.com/freelancers/~01c0ee4a9d77b71d20)
 
 <!---
